@@ -16,8 +16,8 @@ PROJECT OBJECTIVES
 • To manage stock quantity easily  
 • To reduce manual work  
 • To maintain inventory records properly
-FUTURE ENHANCEMENTS
 
+FUTURE ENHANCEMENTS
 - Barcode scanning can be added for faster product management
 - Online billing and invoice generation can be implemented
 - Mobile application support can be developed
