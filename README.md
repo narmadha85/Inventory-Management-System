@@ -37,16 +37,21 @@ The system allows users to add, update, and manage product details easily. It im
 
 Overall, this project is simple, reliable, and useful for shops, supermarkets, and small businesses to manage inventory operations effectively and systematically.
 
-MODULE LIST
-1. USER MODULE
+# MODULE LIST
+
+. USER MODULE
 This module is used for user login and access management.
-2. PRODUCT MANAGEMENT MODULE
+
+. PRODUCT MANAGEMENT MODULE
 This module helps to add, update, search, and delete product details.
-3. STOCK MANAGEMENT MODULE
+
+. STOCK MANAGEMENT MODULE
 This module is used to maintain stock quantity and inventory records properly.
-4. SALES MANAGEMENT MODULE
+
+. SALES MANAGEMENT MODULE
 This module manages sales details, billing, and sales records.
-5. REPORT GENERATION MODULE
+
+. REPORT GENERATION MODULE
 This module generates stock reports and sales reports efficiently.
 
 
