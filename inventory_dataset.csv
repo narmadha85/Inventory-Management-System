@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Quantity,Price,Supplier,Stock_Status
+1001,Scanner,Computer Parts,23,2997,Wallace and Sons,Low Stock
+1002,Monitor,Electronics,33,47026,Schwartz PLC,Low Stock
+1003,Headphones,Computer Parts,15,15456,Munoz-Mcgee,Out of Stock
+1004,USB Cable,Electronics,40,22749,Duarte PLC,Low Stock
+1005,Monitor,Electronics,49,31840,Sanchez Inc,Available
+1006,Hard Disk,Accessories,82,32816,Valdez and Sons,Available
+1007,Scanner,Accessories,43,20079,Simpson-Cruz,Out of Stock
+1008,Printer,Accessories,81,49272,Burke-Lopez,Available
+1009,Keyboard,Electronics,49,6475,Douglas Group,Low Stock
+1010,Router,Computer Parts,42,14876,Clarke-Tyler,Low Stock
+1011,Mouse,Electronics,71,22345,Ayers PLC,Out of Stock
+1012,Laptop,Office Equipment,13,33427,"Pollard, Reyes and Lewis",Out of Stock
+1013,RAM,Accessories,40,10665,Lyons PLC,Out of Stock
+1014,RAM,Computer Parts,8,36316,"Everett, Mitchell and Morgan",Available
+1015,Monitor,Electronics,37,16189,Marks-Jones,Out of Stock
+1016,Printer,Computer Parts,48,43353,"Keller, Bailey and Baird",Out of Stock
+1017,Printer,Accessories,31,7600,Taylor-Watson,Low Stock
+1018,USB Cable,Office Equipment,48,24443,Reed-Johnson,Low Stock
+1019,Printer,Electronics,14,45063,Hill PLC,Available
+1020,Hard Disk,Accessories,18,3166,Smith-Norris,Low Stock
+1021,Headphones,Electronics,39,47230,Rocha-Porter,Out of Stock
+1022,Hard Disk,Computer Parts,5,40495,Murphy Inc,Available
+1023,Keyboard,Electronics,100,18796,"Long, Kennedy and Love",Out of Stock
+1024,Scanner,Electronics,31,29480,Nelson-Hickman,Available
+1025,Headphones,Accessories,47,1350,"Stevens, Weeks and Bates",Low Stock
+1026,Monitor,Office Equipment,72,7579,Wu-Keller,Out of Stock
+1027,Hard Disk,Accessories,24,41349,"Matthews, Hamilton and Ewing",Available
+1028,Laptop,Electronics,32,45149,Anderson LLC,Low Stock
+1029,Printer,Electronics,31,47081,Haas Ltd,Available
+1030,Laptop,Office Equipment,69,28250,"Cooper, Ramos and Moreno",Low Stock
+1031,Scanner,Computer Parts,33,47339,Gates PLC,Available
+1032,RAM,Accessories,9,27337,Martinez-Walker,Low Stock
+1033,Monitor,Computer Parts,90,14033,Smith and Sons,Available
+1034,Mouse,Computer Parts,34,31226,Gonzales-Morales,Low Stock
+1035,Hard Disk,Accessories,53,28853,Walter-Burnett,Low Stock
+1036,Speaker,Electronics,14,28795,Ballard PLC,Out of Stock
+1037,Router,Accessories,9,28091,Macias-Garcia,Out of Stock
+1038,Monitor,Accessories,53,8225,"Prince, Garcia and Meyers",Out of Stock
+1039,USB Cable,Office Equipment,22,27922,"Hunt, Garner and Ramirez",Out of Stock
+1040,Webcam,Computer Parts,71,40541,Lloyd LLC,Low Stock
+1041,Monitor,Accessories,61,32854,Smith-Lopez,Available
+1042,Projector,Computer Parts,30,19748,"Hale, Scott and Sims",Low Stock
+1043,Laptop,Accessories,60,22359,"Moss, Stevens and Weiss",Low Stock
+1044,Headphones,Electronics,65,47736,Clark LLC,Low Stock
+1045,Keyboard,Office Equipment,49,8864,"Sharp, Turner and Perry",Available
+1046,Laptop,Computer Parts,16,39243,Moore Ltd,Low Stock
+1047,RAM,Office Equipment,26,46102,Holland and Sons,Available
+1048,Microphone,Accessories,51,24681,"Smith, Mosley and Nelson",Available
+1049,Microphone,Computer Parts,10,39120,Hayes Group,Out of Stock
+1050,Webcam,Office Equipment,80,35761,"Gill, Lee and Nelson",Available
+1051,Scanner,Office Equipment,9,27844,Esparza and Sons,Out of Stock
+1052,Scanner,Office Equipment,22,32180,Whitehead Ltd,Out of Stock
+1053,Webcam,Accessories,45,36179,Russell-Parker,Out of Stock
+1054,Webcam,Computer Parts,16,22379,Vargas-Roberts,Low Stock
+1055,Speaker,Electronics,96,24423,"Griffin, Allison and Crane",Available
+1056,RAM,Computer Parts,99,25727,Walters-Weaver,Available
+1057,Webcam,Electronics,1,7720,"Davis, Williams and Clark",Out of Stock
+1058,Webcam,Computer Parts,57,48540,"Russell, Brewer and Gonzales",Available
+1059,Mouse,Accessories,49,1113,Fuller-Tate,Low Stock
+1060,Mouse,Computer Parts,33,45482,"Reyes, Gonzalez and Fisher",Low Stock
+1061,Scanner,Computer Parts,74,49421,Fernandez-Vasquez,Low Stock
+1062,Router,Electronics,8,10369,Thompson PLC,Out of Stock
+1063,Projector,Accessories,23,14923,Ramirez Group,Low Stock
+1064,Laptop,Computer Parts,3,20164,"Brown, Kelly and Faulkner",Low Stock
+1065,Router,Computer Parts,98,20477,Beltran Group,Available
+1066,Printer,Office Equipment,35,17240,Carr LLC,Out of Stock
+1067,USB Cable,Accessories,8,11965,"Avila, Huber and Brown",Low Stock
+1068,Headphones,Electronics,16,18802,Martin-Johnson,Out of Stock
+1069,Printer,Electronics,88,20496,Mcclure Ltd,Low Stock
+1070,USB Cable,Office Equipment,93,41639,"Myers, Hogan and Jones",Available
+1071,Laptop,Electronics,78,6273,Gibson-Smith,Available
+1072,Keyboard,Accessories,13,48552,Davis-Dunlap,Low Stock
+1073,Printer,Office Equipment,41,46074,Kim Group,Available
+1074,Laptop,Electronics,32,32826,Ferguson-Bennett,Low Stock
+1075,Keyboard,Accessories,96,3736,"Ibarra, Wright and Jones",Available
+1076,Microphone,Accessories,53,34127,Bennett-Shelton,Available
+1077,RAM,Office Equipment,100,22994,"Vaughan, Knight and Rodriguez",Available
+1078,Monitor,Accessories,20,17313,"Gibson, Perkins and Smith",Available
+1079,Keyboard,Computer Parts,100,9438,"Torres, Young and Hodge",Out of Stock
+1080,Mouse,Office Equipment,5,9444,"Rowe, Morales and Sandoval",Available
+1081,Scanner,Office Equipment,42,12158,Bond-Myers,Out of Stock
+1082,Mouse,Office Equipment,45,33427,"Sanchez, Nelson and Smith",Available
+1083,Scanner,Electronics,76,20981,Brooks LLC,Available
+1084,Projector,Accessories,69,26628,Johnson-Hanna,Available
+1085,Scanner,Accessories,91,31623,Huang Inc,Low Stock
+1086,Printer,Computer Parts,50,27938,Anderson-Baxter,Available
+1087,USB Cable,Electronics,74,4721,"Burton, Gibson and Robinson",Out of Stock
+1088,Projector,Computer Parts,2,9621,Santos Group,Low Stock
+1089,Microphone,Computer Parts,61,9629,Johnson-Smith,Out of Stock
+1090,Webcam,Computer Parts,85,18942,Wright Group,Out of Stock
+1091,Printer,Electronics,60,35953,Fuller Inc,Out of Stock
+1092,Headphones,Accessories,21,16945,"Hendricks, Cook and Moore",Low Stock
+1093,Mouse,Computer Parts,72,12043,Winters Group,Low Stock
+1094,Scanner,Accessories,89,8480,Cooke Ltd,Out of Stock
+1095,Monitor,Electronics,82,37392,Collins-Dawson,Low Stock
+1096,Monitor,Accessories,42,24363,"Gardner, Rodriguez and Young",Out of Stock
+1097,Speaker,Accessories,53,211,"Miller, Flores and Rice",Out of Stock
+1098,Printer,Computer Parts,44,37363,Martin-Banks,Available
+1099,Speaker,Accessories,75,14306,Jordan PLC,Low Stock
+1100,Headphones,Accessories,97,6379,"Diaz, Byrd and Carrillo",Out of Stock
+1101,Laptop,Office Equipment,78,9588,Ponce-Miller,Available
+1102,Speaker,Office Equipment,51,11678,Baker-Ellison,Low Stock
+1103,Microphone,Computer Parts,85,27517,Rodriguez-Baker,Available
+1104,Keyboard,Computer Parts,40,47923,Kim-Alvarez,Available
+1105,Projector,Electronics,23,12791,Lopez-Lee,Available
+1106,Headphones,Accessories,5,26385,Lutz Ltd,Available
+1107,USB Cable,Electronics,15,1380,"Romero, Peterson and Thompson",Out of Stock
+1108,Headphones,Computer Parts,74,49700,Chavez-Wells,Available
+1109,Speaker,Office Equipment,77,19971,Castillo LLC,Low Stock
+1110,Monitor,Computer Parts,32,8757,"Perez, Saunders and Lawson",Available
+1111,RAM,Office Equipment,13,9102,King-Wood,Out of Stock
+1112,Laptop,Accessories,50,13169,Roberson and Sons,Low Stock
+1113,Printer,Accessories,15,18447,Berg-Harris,Available
+1114,Monitor,Electronics,66,41893,"Walker, Robertson and Hall",Low Stock
+1115,Laptop,Computer Parts,49,13010,"Smith, Hart and Reed",Out of Stock
+1116,USB Cable,Accessories,3,3985,"Cannon, Camacho and Steele",Out of Stock
+1117,Webcam,Office Equipment,69,43533,Moody-Navarro,Available
+1118,Printer,Accessories,51,47000,James-Brown,Available
+1119,Hard Disk,Accessories,84,20213,Anderson-Green,Low Stock
+1120,Monitor,Computer Parts,5,33383,"Baxter, Schultz and Rogers",Out of Stock
+1121,Microphone,Computer Parts,1,4321,Gould PLC,Out of Stock
+1122,Projector,Accessories,50,4488,"Hayes, Rodgers and Hester",Out of Stock
+1123,Speaker,Accessories,68,11479,Perez-Smith,Out of Stock
+1124,Mouse,Computer Parts,77,37047,"George, Hamilton and Morris",Low Stock
+1125,Projector,Office Equipment,42,43332,Porter-Nguyen,Available
+1126,Hard Disk,Computer Parts,28,8771,Richmond and Sons,Available
+1127,RAM,Accessories,9,2555,Bennett-Parker,Low Stock
+1128,Projector,Computer Parts,39,9540,Mcgee-Strickland,Available
+1129,Webcam,Electronics,97,29154,Graham Inc,Available
+1130,USB Cable,Electronics,73,27212,Bowen-Garcia,Low Stock
+1131,Scanner,Computer Parts,47,43263,"Mullins, Sanchez and Moran",Available
+1132,Keyboard,Accessories,40,38412,"Hopkins, Baxter and Armstrong",Available
+1133,Microphone,Accessories,97,48643,Frye-Singh,Available
+1134,Projector,Office Equipment,17,24576,Petersen-Lopez,Available
+1135,Mouse,Computer Parts,38,43450,"Taylor, Hartman and Sutton",Out of Stock
+1136,Projector,Accessories,86,34103,Schultz Inc,Out of Stock
+1137,USB Cable,Accessories,73,48061,Kelly LLC,Out of Stock
+1138,Headphones,Electronics,28,47914,Shaffer Ltd,Available
+1139,Projector,Electronics,18,7360,Patel Group,Out of Stock
+1140,Monitor,Office Equipment,6,11824,Gray Inc,Available
+1141,Laptop,Electronics,72,32777,Thornton Group,Out of Stock
+1142,Projector,Computer Parts,61,25407,"Washington, Castaneda and Brady",Available
+1143,Router,Accessories,40,20060,Lara-Maldonado,Out of Stock
+1144,Speaker,Electronics,85,27182,"Watts, Simpson and Harris",Out of Stock
+1145,RAM,Office Equipment,84,3344,"Kent, Alexander and Duran",Out of Stock
+1146,Router,Computer Parts,100,38417,Green-Willis,Out of Stock
+1147,USB Cable,Computer Parts,4,5195,"Perez, Freeman and Randolph",Out of Stock
+1148,Monitor,Computer Parts,3,40961,Lowery Inc,Low Stock
+1149,Laptop,Accessories,95,8392,Patterson Inc,Low Stock
+1150,Keyboard,Electronics,9,42366,Ball LLC,Out of Stock
+1151,Keyboard,Computer Parts,84,46695,"Williams, Joseph and Parker",Available
+1152,Router,Office Equipment,66,12410,"Lewis, Weber and Peterson",Low Stock
+1153,Webcam,Accessories,2,38086,Ward-Freeman,Low Stock
+1154,Monitor,Computer Parts,20,24941,Gross-Hess,Out of Stock
+1155,Speaker,Computer Parts,4,29939,"Gilbert, Hill and Weber",Low Stock
+1156,Printer,Computer Parts,10,39676,Owens-Walker,Out of Stock
+1157,Webcam,Computer Parts,74,40771,Parker Inc,Low Stock
+1158,Keyboard,Electronics,62,17783,Browning Group,Out of Stock
+1159,Webcam,Office Equipment,58,1951,"Murray, Rollins and White",Low Stock
+1160,Keyboard,Office Equipment,85,22573,"Kelly, Daniels and Cook",Out of Stock
+1161,Webcam,Accessories,7,46546,Hernandez-Johnson,Available
+1162,Mouse,Accessories,54,33785,Middleton Group,Available
+1163,USB Cable,Electronics,29,14590,Thompson-Hopkins,Low Stock
+1164,Headphones,Electronics,1,37130,Moreno LLC,Out of Stock
+1165,Hard Disk,Office Equipment,79,32041,Evans-Spencer,Low Stock
+1166,Mouse,Electronics,18,36952,Roman-Ford,Out of Stock
+1167,Projector,Accessories,12,10256,"Butler, Clark and Ryan",Out of Stock
+1168,Laptop,Office Equipment,9,47686,Freeman-Rice,Low Stock
+1169,RAM,Computer Parts,50,13850,Hurst PLC,Low Stock
+1170,Laptop,Accessories,5,27391,Jackson-Kennedy,Available
+1171,Hard Disk,Accessories,76,11439,Moore-Hill,Out of Stock
+1172,Scanner,Computer Parts,73,21688,Stephens LLC,Available
+1173,Headphones,Electronics,87,22367,Booth-Steele,Available
+1174,Mouse,Electronics,1,15161,Watkins-Carroll,Out of Stock
+1175,Microphone,Office Equipment,99,4847,Rios Inc,Out of Stock
+1176,Printer,Accessories,92,39967,Nielsen-Moss,Low Stock
+1177,Speaker,Computer Parts,100,6433,"Hood, Mitchell and Griffith",Available
+1178,Hard Disk,Office Equipment,27,29947,"Branch, Ryan and Smith",Out of Stock
+1179,Router,Electronics,15,10199,Mendoza Group,Low Stock
+1180,Scanner,Office Equipment,16,35414,Curry-Brown,Available
+1181,Projector,Accessories,72,741,"Bradshaw, Hines and Robinson",Low Stock
+1182,Router,Accessories,30,42221,"Richardson, Foster and Morales",Low Stock
+1183,Scanner,Office Equipment,44,616,Woods PLC,Low Stock
+1184,Printer,Electronics,72,18663,Alvarez-Williams,Out of Stock
+1185,Speaker,Accessories,23,33351,"Thomas, Lee and Ramsey",Available
+1186,Scanner,Accessories,58,6569,"Mercado, Brown and Young",Low Stock
+1187,Headphones,Office Equipment,72,4596,"Meadows, Henderson and Flynn",Low Stock
+1188,Speaker,Office Equipment,49,24926,"Thompson, Newman and Dudley",Low Stock
+1189,RAM,Electronics,58,32626,Douglas PLC,Low Stock
+1190,USB Cable,Electronics,10,9153,Byrd-Williams,Low Stock
+1191,Monitor,Electronics,96,33389,Jackson-Wallace,Available
+1192,Speaker,Computer Parts,42,9365,"Lopez, Preston and Mitchell",Available
+1193,Keyboard,Electronics,22,19105,Arnold-Jackson,Available
+1194,Printer,Accessories,12,6162,Hughes-Martin,Out of Stock
+1195,Headphones,Office Equipment,74,8196,Cortez-Baker,Out of Stock
+1196,Printer,Accessories,5,28331,Matthews-Miller,Out of Stock
+1197,Keyboard,Electronics,92,3104,"Warren, Cruz and Rodriguez",Out of Stock
+1198,Mouse,Accessories,11,41520,Brown Ltd,Available
+1199,Speaker,Computer Parts,3,7353,Dawson-Caldwell,Out of Stock
+1200,Speaker,Accessories,72,46856,Johnson Inc,Out of Stock
+1201,Speaker,Computer Parts,5,44573,"Miller, Perkins and Leonard",Out of Stock
+1202,Hard Disk,Computer Parts,87,16923,Mcbride Ltd,Out of Stock
+1203,Microphone,Accessories,12,39157,Thomas-Boyd,Available
+1204,USB Cable,Computer Parts,87,38387,Jackson-Cook,Low Stock
+1205,RAM,Electronics,20,13180,Huffman PLC,Available
+1206,Scanner,Computer Parts,60,49841,Turner and Sons,Low Stock
+1207,Monitor,Computer Parts,76,28578,Beard-Mullen,Out of Stock
+1208,Mouse,Office Equipment,38,10686,Leonard-Munoz,Low Stock
+1209,Keyboard,Computer Parts,5,32894,Farmer and Sons,Out of Stock
+1210,Projector,Accessories,17,1318,"Wilson, Harrington and Dunn",Available
+1211,Router,Electronics,52,44311,"Choi, Chambers and Griffin",Low Stock
+1212,Webcam,Accessories,14,15335,"Oneill, Rodriguez and Nichols",Available
+1213,USB Cable,Electronics,15,32902,Hall Ltd,Available
+1214,Projector,Computer Parts,8,1856,Rosales PLC,Out of Stock
+1215,USB Cable,Office Equipment,92,23629,Marks-Mathews,Available
+1216,Printer,Electronics,43,47386,Reed and Sons,Low Stock
+1217,Mouse,Office Equipment,23,1683,"Gallegos, Stark and Ortiz",Low Stock
+1218,Keyboard,Accessories,10,4994,"Martinez, Cruz and Wilson",Out of Stock
+1219,Printer,Electronics,79,28202,Wilson Group,Low Stock
+1220,RAM,Electronics,78,7073,Ramirez LLC,Low Stock
+1221,Mouse,Computer Parts,14,4727,"Smith, Clayton and Foster",Out of Stock
+1222,Mouse,Accessories,44,13629,Williams-Davis,Available
+1223,Webcam,Office Equipment,29,25521,"Vega, Nelson and Roberts",Low Stock
+1224,Webcam,Office Equipment,56,18048,Taylor-Mclean,Low Stock
+1225,Mouse,Electronics,45,10271,Fritz-Burns,Low Stock
+1226,USB Cable,Computer Parts,98,13869,Khan PLC,Low Stock
+1227,Monitor,Computer Parts,97,32371,Weber-Mills,Low Stock
+1228,Webcam,Office Equipment,45,1349,Armstrong Ltd,Out of Stock
+1229,Laptop,Computer Parts,60,13085,Garrison-Lee,Available
+1230,Microphone,Computer Parts,47,49164,"Smith, Esparza and Bennett",Available
+1231,Webcam,Electronics,77,28085,Patel-Peterson,Out of Stock
+1232,Router,Office Equipment,10,21466,Ruiz-Johnson,Available
+1233,Headphones,Computer Parts,61,37804,Hawkins LLC,Low Stock
+1234,Webcam,Computer Parts,31,29595,Small-Ross,Available
+1235,Speaker,Computer Parts,52,17646,"James, Johnson and Martin",Available
+1236,Headphones,Accessories,59,37084,"Smith, Miranda and Cooper",Out of Stock
+1237,Monitor,Computer Parts,41,39278,"Lee, Kelley and Kelly",Available
+1238,Headphones,Accessories,5,23137,Wagner-Cunningham,Out of Stock
+1239,Projector,Office Equipment,6,7753,Lopez Ltd,Out of Stock
+1240,Webcam,Electronics,96,5774,Curry PLC,Available
+1241,Keyboard,Electronics,23,45794,Nguyen PLC,Out of Stock
+1242,Speaker,Computer Parts,5,45981,"Gill, Ramirez and Keith",Out of Stock
+1243,Mouse,Accessories,51,1383,"Bartlett, Miller and Ball",Low Stock
+1244,Projector,Computer Parts,75,1116,Walters-Winters,Out of Stock
+1245,Headphones,Electronics,61,7695,Armstrong-Hayes,Low Stock
+1246,Projector,Accessories,88,37620,Cantu-Parsons,Low Stock
+1247,Speaker,Computer Parts,79,32260,Gonzalez-White,Available
+1248,Mouse,Accessories,53,17832,Martinez LLC,Low Stock
+1249,Hard Disk,Computer Parts,14,34816,Peters PLC,Out of Stock
+1250,Speaker,Office Equipment,60,40882,Downs Ltd,Out of Stock
+1251,RAM,Computer Parts,49,5197,Torres Ltd,Low Stock
+1252,Keyboard,Office Equipment,2,22510,"Martinez, Baker and Brown",Available
+1253,Mouse,Office Equipment,78,17529,Jackson-Jennings,Out of Stock
+1254,Printer,Computer Parts,37,22383,"Garcia, Jones and Ferguson",Out of Stock
+1255,Speaker,Computer Parts,78,25528,"Powell, Anderson and Sparks",Out of Stock
+1256,Webcam,Computer Parts,15,36585,"Hernandez, Carey and Ford",Out of Stock
+1257,Headphones,Electronics,33,23843,Rodriguez-Harris,Low Stock
+1258,Webcam,Accessories,95,48924,Rose LLC,Low Stock
+1259,Webcam,Computer Parts,55,9238,Jones-Briggs,Available
+1260,Projector,Computer Parts,88,27630,Bradley-Nichols,Available
+1261,Projector,Electronics,42,47047,Armstrong Inc,Low Stock
+1262,Headphones,Accessories,40,27129,Baldwin PLC,Low Stock
+1263,RAM,Accessories,95,48204,"Schultz, Jimenez and Brown",Available
+1264,Keyboard,Office Equipment,51,27738,"Leach, Bowman and Castillo",Low Stock
+1265,USB Cable,Accessories,68,15349,Reese LLC,Low Stock
+1266,Webcam,Office Equipment,100,3216,Elliott-Mosley,Out of Stock
+1267,Printer,Computer Parts,37,35767,Crawford Ltd,Available
+1268,Laptop,Computer Parts,47,31929,"Phillips, Morales and Bolton",Available
+1269,Router,Accessories,11,5732,Johnson-Schmidt,Available
+1270,Monitor,Electronics,50,46082,"Santana, Taylor and Perez",Low Stock
+1271,Printer,Computer Parts,75,7019,"Campos, Hill and Lynch",Available
+1272,RAM,Office Equipment,29,41143,Bishop-Reilly,Out of Stock
+1273,Router,Office Equipment,86,31342,Daugherty-Castro,Out of Stock
+1274,USB Cable,Accessories,67,39600,Holmes and Sons,Out of Stock
+1275,Webcam,Computer Parts,62,33043,Cole-Watson,Available
+1276,Webcam,Electronics,38,15191,Wilkinson Inc,Out of Stock
+1277,Scanner,Accessories,32,30141,Harper-Park,Out of Stock
+1278,Hard Disk,Electronics,48,14985,Wright Group,Available
+1279,Laptop,Accessories,52,27002,Hurst-Wade,Out of Stock
+1280,RAM,Office Equipment,37,1004,Garcia Ltd,Low Stock
+1281,Monitor,Office Equipment,40,26178,Bowers-Waters,Available
+1282,Hard Disk,Accessories,32,47392,West Group,Low Stock
+1283,Mouse,Accessories,32,8005,Erickson LLC,Out of Stock
+1284,Laptop,Electronics,92,37042,Hall and Sons,Available
+1285,Headphones,Office Equipment,19,4627,"Duncan, Cooper and Skinner",Out of Stock
+1286,Mouse,Electronics,68,22477,"Alvarez, Johnson and Vega",Low Stock
+1287,Microphone,Accessories,9,44371,"Fitzpatrick, Johnson and Gentry",Out of Stock
+1288,Headphones,Electronics,46,28179,"Young, Baldwin and Charles",Out of Stock
+1289,Speaker,Computer Parts,100,16600,Smith-Martinez,Available
+1290,RAM,Electronics,86,22676,"Brown, Sellers and Delgado",Low Stock
+1291,Headphones,Office Equipment,14,12950,Archer-Li,Available
+1292,Hard Disk,Electronics,59,577,Green Group,Out of Stock
+1293,Monitor,Electronics,100,4375,"Hernandez, Thompson and Garcia",Available
+1294,Mouse,Electronics,24,15248,"Kelley, Perry and Daniel",Available
+1295,Projector,Electronics,84,33436,"Salazar, Archer and Roberts",Low Stock
+1296,Scanner,Accessories,16,21207,Rocha-Hughes,Available
+1297,Headphones,Accessories,23,24638,Walker and Sons,Available
+1298,RAM,Accessories,17,11975,"Sparks, Sherman and Spencer",Available
+1299,USB Cable,Computer Parts,8,40556,Bonilla-Reed,Low Stock
+1300,Router,Accessories,7,4890,Stephens and Sons,Available
